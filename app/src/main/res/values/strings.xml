@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Graphic Interface</string>
+    <string name="long_text">Long Text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text long text</string>
+    <string name="linear_layout" translatable="false">LinearLayout</string>
+    <string name="frame_layout" translatable="false">FrameLayout</string>
+    <string name="grid_layout" translatable="false">GridLayout</string>
+    <string name="scroll_view" translatable="false">ScrollView</string>
+    <string name="relative_layout" translatable="false">RelativeLayout</string>
+    <string name="constraint_layout" translatable="false">ConstraintLayout</string>
+    <string name="dimensions">Playing with Dimensions</string>
+    <string name="constraint_playing">Playing with ConstraintLayout</string>
+    <string name="example_button">Example Button</string>
+    <string name="another_button">Another Button</string>
+    <string name="strings" translatable="false">Strings</string>
+    <string name="your_name">What\'s your name?</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="welcome_message">Welcome to our great app, %1$s (%2$d)!</string>
+    <string name="images">Images</string>
+</resources>

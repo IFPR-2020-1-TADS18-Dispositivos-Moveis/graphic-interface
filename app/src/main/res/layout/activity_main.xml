@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="8dp"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btLinear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/linear_layout" />
+
+        <Button
+            android:id="@+id/btFrame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/frame_layout" />
+
+        <Button
+            android:id="@+id/btGrid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/grid_layout" />
+
+        <Button
+            android:id="@+id/btScroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/scroll_view" />
+
+        <Button
+            android:id="@+id/btRelative"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/relative_layout" />
+
+        <Button
+            android:id="@+id/btConstraint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/constraint_layout" />
+
+        <Button
+            android:id="@+id/btDimensions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dimensions" />
+
+        <Button
+            android:id="@+id/btConstraintPlaying"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/constraint_playing" />
+
+        <Button
+            android:id="@+id/button47"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/example_button" />
+
+        <Button
+            android:id="@+id/button48"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/another_button" />
+
+        <Button
+            android:id="@+id/btStrings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/strings" />
+
+        <Button
+            android:id="@+id/btImages"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/images" />
+
+        <Button
+            android:id="@+id/button49"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button51"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+        <Button
+            android:id="@+id/button52"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Button" />
+
+    </LinearLayout>
+</ScrollView>
